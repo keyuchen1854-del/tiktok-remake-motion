@@ -1,0 +1,4 @@
+interface:
+  display_name: "带货出单复刻"
+  short_description: "适用于带货原片的商品与卖点核对、逐镜反推、关键帧宫格和复刻视频交付。"
+  default_prompt: "使用 $tiktok-sales-video-remake 按我的修改要求复刻这条带货视频，先给完整宫格确认。"

@@ -1,0 +1,13 @@
+/runs/
+/.deps/
+/.venv/
+/local-paths.json
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.safetensors

@@ -1,0 +1,6 @@
+{
+  "remake_project": "engine",
+  "video_reverse": "engine/.agents/skills/video-reverse",
+  "remake_tools": "tools/video-remake",
+  "lemo_library": ".deps/lemo-opuscar"
+}
